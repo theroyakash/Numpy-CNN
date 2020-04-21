@@ -211,3 +211,11 @@ def pool_forward(A_prev, hparameters, mode = "max"):
 
 ########################### BACK PROPAGATION ###########################
 
+'''
+In modern deep learning frameworks, you only have to implement the forward pass, 
+and the framework takes care of the backward pass, 
+so most deep learning engineers don't need to bother with the details of the 
+backward pass. The backward pass for convolutional networks is complicated. 
+
+'''
+
