@@ -2,6 +2,10 @@
 
 This is an implementation of convolutional neural network's working implemented in numpy.
 
+All basic building blocks is implemented inside the CNN.py file. Adding these building blocks together will conform to a Deep CNN model. 
+
+**Back propagation has not implemented yet.**
+
 ## License
 
 Numpy implementation of Convolutional Neural Network is licensed under the GNU General Public License v3.0.
